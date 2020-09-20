@@ -12,7 +12,7 @@ function divide() {
 }
 
 function increment(a) {
-  var n = 
+  var n =
   n++;
 return;
 }
