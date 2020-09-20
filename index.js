@@ -23,3 +23,7 @@ function makeInt(string) {
   var string = parseInt(string, 10)
   return string;
 }
+function preserveDecimal(string) {
+  var string = parseFloat(string)
+  return string;
+}
