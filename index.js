@@ -10,8 +10,9 @@ function multiply() {
 function divide() {
 
 }
-function increment() {
-var n = increment();
+
+function increment(a) {
+var n = 'a'
 n++;
 return n;
 }
