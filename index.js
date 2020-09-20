@@ -13,6 +13,5 @@ function divide() {
 function increment(n) {
 var n = 593
 n++
-return n 
+return n
 }
-
