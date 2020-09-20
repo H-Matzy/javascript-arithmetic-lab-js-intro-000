@@ -10,8 +10,8 @@ function multiply() {
 function divide() {
 
 }
-function increment() {
-var n = increment()
+function increment(n) {
+var n = 0
 n++
 return n
 }
