@@ -12,5 +12,5 @@ function divide() {
 }
 function increment(n) {
 var n = 1
-1--
+n--
 }
