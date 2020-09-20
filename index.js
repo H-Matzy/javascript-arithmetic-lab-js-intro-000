@@ -12,7 +12,6 @@ function divide() {
 }
 
 function increment(n) {
-var n = $increment()
-  n++;
-return;
+var n = n+1
+return n;
 }
