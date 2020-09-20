@@ -11,7 +11,7 @@ function divide() {
 
 }
 function increment(n) {
-var n = 1
+var n = 'n'
 n++
 return n
 }
