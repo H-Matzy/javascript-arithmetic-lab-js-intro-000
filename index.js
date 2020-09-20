@@ -1,8 +1,8 @@
-function add(a,b) {
-a+b
+function add() {
+
 }
-function subtract(a,b) {
-'a' - 'b'
+function subtract() {
+
 }
 function multiply() {
 
