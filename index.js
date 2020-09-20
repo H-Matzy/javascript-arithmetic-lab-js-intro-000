@@ -12,7 +12,7 @@ return ans;
 }
 function divide(a,b) {
 var ans = a/b
-return ans
+return ans;
 }
 
 function increment(n) {
