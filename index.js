@@ -1,8 +1,8 @@
-function add() {
-
+function add(a,b) {
+'a' + 'b'
 }
-function subtract() {
-
+function subtract(a,b) {
+'a' - 'b'
 }
 function multiply() {
 
@@ -10,8 +10,6 @@ function multiply() {
 function divide() {
 
 }
-function increment(n) {
-  var number = n
-  number++
-  return
+function increment() {
+n += 1
 }
