@@ -2,14 +2,17 @@ function add(a,b) {
 var ans = a+b
 return ans;
 }
-function subtract() {
-
+function subtract(a,b) {
+var ans = a-b
+return ans;
 }
-function multiply() {
-
+function multiply(a,b) {
+var ans = a*b 
+return ans;
 }
-function divide() {
-
+function divide(a,b) {
+var ans = a/b 
+return ans
 }
 
 function increment(n) {
