@@ -10,7 +10,7 @@ function multiply() {
 function divide() {
 
 }
-function increment(number) {
-var 'number' = 1
+function increment(n) {
+var n = 1
 1--
 }
