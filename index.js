@@ -10,9 +10,9 @@ function multiply() {
 function divide() {
 
 }
-var n = 0
-function increment(n) {
 
+function increment(n) {
+var n = $increment()
   n++;
 return;
 }
