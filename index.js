@@ -11,8 +11,8 @@ function divide() {
 
 }
 
-function increment(a) {
-  var n =
+function increment(1) {
+  var n = 1
   n++;
 return;
 }
