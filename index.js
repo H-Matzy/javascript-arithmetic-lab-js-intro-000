@@ -15,3 +15,7 @@ function increment(n) {
 var n = n+1
 return n;
 }
+function decrement(n) {
+  var n = n-1
+  return n;
+}
