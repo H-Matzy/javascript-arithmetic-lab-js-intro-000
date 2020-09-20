@@ -12,7 +12,6 @@ function divide() {
 }
 
 function increment(a) {
-var n = 'a'
-n++;
-return n;
+increment()++
+return;
 }
