@@ -10,6 +10,8 @@ function multiply() {
 function divide() {
 
 }
-function increment() {
-n += 1
+function increment(number) {
+var number = 1
+1--
+return
 }
